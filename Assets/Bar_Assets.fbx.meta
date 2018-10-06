@@ -1,0 +1,843 @@
+fileFormatVersion: 2
+guid: 26cc69ad849832541aee5ec4531df55a
+timeCreated: 1538499802
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Amaretto
+    100002: Americano
+    100004: Americano Liquid
+    100006: Angostura Bitters
+    100008: Bar Spoon
+    100010: //RootNode
+    100012: Big Cup
+    100014: Big Cup Liquid
+    100016: Bottle Opener
+    100018: Bourbon
+    100020: Brandy
+    100022: Cachaca
+    100024: Campari
+    100026: Can Cap.002
+    100028: Can Cap.011
+    100030: Can.002
+    100032: Can.011
+    100034: Cola Cap.004
+    100036: Cola.004
+    100038: Cosmopolitan
+    100040: Cosmopolitan Liquid
+    100042: Cranberry
+    100044: Dry Vermouth
+    100046: Egg White
+    100048: Fruit + Cherry
+    100050: Fruit + Cherry.001
+    100052: Fruit + Cherry.002
+    100054: Fruit Half
+    100056: Fruit Half.
+    100058: Fruit Half..001
+    100060: Fruit Half..002
+    100062: Fruit Half.001
+    100064: Fruit Half.002
+    100066: Fruit Half.003
+    100068: Fruit Half.004
+    100070: Fruit Half.005
+    100072: Fruit Half.006
+    100074: Fruit Half.007
+    100076: Fruit Half.008
+    100078: Fruit Half.009
+    100080: Fruit Half.010
+    100082: Fruit Half.011
+    100084: Fruit Screw
+    100086: Fruit Screw.001
+    100088: Fruit Screw.002
+    100090: Fruit Screw.003
+    100092: Fruit Screw.004
+    100094: Fruit Screw.005
+    100096: Fruit Screw.006
+    100098: Fruit Screw.007
+    100100: Fruit Screw.008
+    100102: Fruit Screw.009
+    100104: Fruit Screw.010
+    100106: Fruit Screw.011
+    100108: Fruit Screw.012
+    100110: Fruit Screw.013
+    100112: Fruit Screw.014
+    100114: Fruit Screw.015
+    100116: Fruit Screw.016
+    100118: Fruit Screw.017
+    100120: Fruit Screw.018
+    100122: Fruit Screw.019
+    100124: Fruit Screw.020
+    100126: Fruit Screw.021
+    100128: Fruit Screw.022
+    100130: Fruit Screw.023
+    100132: Fruit Shaving
+    100134: Fruit Shaving.001
+    100136: Fruit Shaving.002
+    100138: Fruit Shaving.003
+    100140: Fruit Shaving.004
+    100142: Fruit Shaving.005
+    100144: Fruit Shaving.006
+    100146: Fruit Shaving.007
+    100148: Fruit Shaving.008
+    100150: Fruit Shaving.009
+    100152: Fruit Shaving.010
+    100154: Fruit Shaving.011
+    100156: Fruit Shaving.012
+    100158: Fruit Shaving.013
+    100160: Fruit Shaving.014
+    100162: Fruit Shaving.015
+    100164: Fruit Shaving.016
+    100166: Fruit Shaving.017
+    100168: Fruit Shaving.018
+    100170: Fruit Shaving.019
+    100172: Fruit Shaving.020
+    100174: Fruit Shaving.021
+    100176: Fruit Shaving.022
+    100178: Full Fruit
+    100180: Full Fruit.001
+    100182: Full Fruit.002
+    100184: Full Fruit.003
+    100186: Full Fruit.004
+    100188: Full Fruit.005
+    100190: Garnish Bowl
+    100192: Garnish Bowl.001
+    100194: Garnish Bowl.002
+    100196: Garnish Bowl.003
+    100198: Garnish Bowl.004
+    100200: Garnish Bowl.005
+    100202: Garnish Bowl.006
+    100204: Garnish Bowl.007
+    100206: Garnish Bowl.008
+    100208: Gin
+    100210: Gin & Tonic
+    100212: Gin & Tonic Liquid
+    100214: Grapefruit Juice
+    100216: Grenadine
+    100218: Ice Scoop
+    100220: Jig
+    100222: Lemon Juice
+    100224: Lemonade
+    100226: Lemonade Cap.003
+    100228: Lime Juice
+    100230: Manhatten
+    100232: Manhatten Liquid
+    100234: Margarita
+    100236: Margarita Liquid
+    100238: Martini
+    100240: Martini Liquid
+    100242: Milk
+    100244: Mimosas
+    100246: Mimosas Liquid
+    100248: Mixing Glass
+    100250: Mojito
+    100252: Mojito Liquid
+    100254: Muddler
+    100256: OJ
+    100258: Old Fashioned
+    100260: Old Fashioned Liquid
+    100262: Orange Bitters
+    100264: Orange Soda Cap.000
+    100266: Orange Soda.000
+    100268: Orgeat
+    100270: Peach Nectar
+    100272: Peach Schnapps
+    100274: Peychaud's Bitters
+    100276: PIneapple Juice
+    100278: Red Wine
+    100280: Rose's Lime
+    100282: Rum
+    100284: Rye Whisky
+    100286: Salt Plate.002
+    100288: Scotch
+    100290: Sex on the Beach
+    100292: Sex on the Beach Liquid
+    100294: Shaker Big
+    100296: Shaker Small
+    100298: Shaker Small.003
+    100300: Simple Syrup
+    100302: Strainer
+    100304: Strainer.003
+    100306: Sweet Vermouth
+    100308: Tequila
+    100310: The Icon
+    100312: The Icon Liquid
+    100314: Tonic
+    100316: Tonic Lid
+    100318: Triple Sec
+    100320: Vodka
+    100322: Whiskey
+    100324: White Rum
+    100326: White Wine
+    100328: Wild Berry Smoothie
+    100330: Wild Berry Smoothie Liquid
+    100332: Wiskey Sour
+    100334: Wiskey Sour Liquid
+    400000: Amaretto
+    400002: Americano
+    400004: Americano Liquid
+    400006: Angostura Bitters
+    400008: Bar Spoon
+    400010: //RootNode
+    400012: Big Cup
+    400014: Big Cup Liquid
+    400016: Bottle Opener
+    400018: Bourbon
+    400020: Brandy
+    400022: Cachaca
+    400024: Campari
+    400026: Can Cap.002
+    400028: Can Cap.011
+    400030: Can.002
+    400032: Can.011
+    400034: Cola Cap.004
+    400036: Cola.004
+    400038: Cosmopolitan
+    400040: Cosmopolitan Liquid
+    400042: Cranberry
+    400044: Dry Vermouth
+    400046: Egg White
+    400048: Fruit + Cherry
+    400050: Fruit + Cherry.001
+    400052: Fruit + Cherry.002
+    400054: Fruit Half
+    400056: Fruit Half.
+    400058: Fruit Half..001
+    400060: Fruit Half..002
+    400062: Fruit Half.001
+    400064: Fruit Half.002
+    400066: Fruit Half.003
+    400068: Fruit Half.004
+    400070: Fruit Half.005
+    400072: Fruit Half.006
+    400074: Fruit Half.007
+    400076: Fruit Half.008
+    400078: Fruit Half.009
+    400080: Fruit Half.010
+    400082: Fruit Half.011
+    400084: Fruit Screw
+    400086: Fruit Screw.001
+    400088: Fruit Screw.002
+    400090: Fruit Screw.003
+    400092: Fruit Screw.004
+    400094: Fruit Screw.005
+    400096: Fruit Screw.006
+    400098: Fruit Screw.007
+    400100: Fruit Screw.008
+    400102: Fruit Screw.009
+    400104: Fruit Screw.010
+    400106: Fruit Screw.011
+    400108: Fruit Screw.012
+    400110: Fruit Screw.013
+    400112: Fruit Screw.014
+    400114: Fruit Screw.015
+    400116: Fruit Screw.016
+    400118: Fruit Screw.017
+    400120: Fruit Screw.018
+    400122: Fruit Screw.019
+    400124: Fruit Screw.020
+    400126: Fruit Screw.021
+    400128: Fruit Screw.022
+    400130: Fruit Screw.023
+    400132: Fruit Shaving
+    400134: Fruit Shaving.001
+    400136: Fruit Shaving.002
+    400138: Fruit Shaving.003
+    400140: Fruit Shaving.004
+    400142: Fruit Shaving.005
+    400144: Fruit Shaving.006
+    400146: Fruit Shaving.007
+    400148: Fruit Shaving.008
+    400150: Fruit Shaving.009
+    400152: Fruit Shaving.010
+    400154: Fruit Shaving.011
+    400156: Fruit Shaving.012
+    400158: Fruit Shaving.013
+    400160: Fruit Shaving.014
+    400162: Fruit Shaving.015
+    400164: Fruit Shaving.016
+    400166: Fruit Shaving.017
+    400168: Fruit Shaving.018
+    400170: Fruit Shaving.019
+    400172: Fruit Shaving.020
+    400174: Fruit Shaving.021
+    400176: Fruit Shaving.022
+    400178: Full Fruit
+    400180: Full Fruit.001
+    400182: Full Fruit.002
+    400184: Full Fruit.003
+    400186: Full Fruit.004
+    400188: Full Fruit.005
+    400190: Garnish Bowl
+    400192: Garnish Bowl.001
+    400194: Garnish Bowl.002
+    400196: Garnish Bowl.003
+    400198: Garnish Bowl.004
+    400200: Garnish Bowl.005
+    400202: Garnish Bowl.006
+    400204: Garnish Bowl.007
+    400206: Garnish Bowl.008
+    400208: Gin
+    400210: Gin & Tonic
+    400212: Gin & Tonic Liquid
+    400214: Grapefruit Juice
+    400216: Grenadine
+    400218: Ice Scoop
+    400220: Jig
+    400222: Lemon Juice
+    400224: Lemonade
+    400226: Lemonade Cap.003
+    400228: Lime Juice
+    400230: Manhatten
+    400232: Manhatten Liquid
+    400234: Margarita
+    400236: Margarita Liquid
+    400238: Martini
+    400240: Martini Liquid
+    400242: Milk
+    400244: Mimosas
+    400246: Mimosas Liquid
+    400248: Mixing Glass
+    400250: Mojito
+    400252: Mojito Liquid
+    400254: Muddler
+    400256: OJ
+    400258: Old Fashioned
+    400260: Old Fashioned Liquid
+    400262: Orange Bitters
+    400264: Orange Soda Cap.000
+    400266: Orange Soda.000
+    400268: Orgeat
+    400270: Peach Nectar
+    400272: Peach Schnapps
+    400274: Peychaud's Bitters
+    400276: PIneapple Juice
+    400278: Red Wine
+    400280: Rose's Lime
+    400282: Rum
+    400284: Rye Whisky
+    400286: Salt Plate.002
+    400288: Scotch
+    400290: Sex on the Beach
+    400292: Sex on the Beach Liquid
+    400294: Shaker Big
+    400296: Shaker Small
+    400298: Shaker Small.003
+    400300: Simple Syrup
+    400302: Strainer
+    400304: Strainer.003
+    400306: Sweet Vermouth
+    400308: Tequila
+    400310: The Icon
+    400312: The Icon Liquid
+    400314: Tonic
+    400316: Tonic Lid
+    400318: Triple Sec
+    400320: Vodka
+    400322: Whiskey
+    400324: White Rum
+    400326: White Wine
+    400328: Wild Berry Smoothie
+    400330: Wild Berry Smoothie Liquid
+    400332: Wiskey Sour
+    400334: Wiskey Sour Liquid
+    2300000: Amaretto
+    2300002: Americano
+    2300004: Americano Liquid
+    2300006: Angostura Bitters
+    2300008: Bar Spoon
+    2300010: Big Cup
+    2300012: Big Cup Liquid
+    2300014: Bottle Opener
+    2300016: Bourbon
+    2300018: Brandy
+    2300020: Cachaca
+    2300022: Campari
+    2300024: Can Cap.002
+    2300026: Can Cap.011
+    2300028: Can.002
+    2300030: Can.011
+    2300032: Cola Cap.004
+    2300034: Cola.004
+    2300036: Cosmopolitan
+    2300038: Cosmopolitan Liquid
+    2300040: Cranberry
+    2300042: Dry Vermouth
+    2300044: Egg White
+    2300046: Fruit + Cherry
+    2300048: Fruit + Cherry.001
+    2300050: Fruit + Cherry.002
+    2300052: Fruit Half
+    2300054: Fruit Half.
+    2300056: Fruit Half..001
+    2300058: Fruit Half..002
+    2300060: Fruit Half.001
+    2300062: Fruit Half.002
+    2300064: Fruit Half.003
+    2300066: Fruit Half.004
+    2300068: Fruit Half.005
+    2300070: Fruit Half.006
+    2300072: Fruit Half.007
+    2300074: Fruit Half.008
+    2300076: Fruit Half.009
+    2300078: Fruit Half.010
+    2300080: Fruit Half.011
+    2300082: Fruit Screw
+    2300084: Fruit Screw.001
+    2300086: Fruit Screw.002
+    2300088: Fruit Screw.003
+    2300090: Fruit Screw.004
+    2300092: Fruit Screw.005
+    2300094: Fruit Screw.006
+    2300096: Fruit Screw.007
+    2300098: Fruit Screw.008
+    2300100: Fruit Screw.009
+    2300102: Fruit Screw.010
+    2300104: Fruit Screw.011
+    2300106: Fruit Screw.012
+    2300108: Fruit Screw.013
+    2300110: Fruit Screw.014
+    2300112: Fruit Screw.015
+    2300114: Fruit Screw.016
+    2300116: Fruit Screw.017
+    2300118: Fruit Screw.018
+    2300120: Fruit Screw.019
+    2300122: Fruit Screw.020
+    2300124: Fruit Screw.021
+    2300126: Fruit Screw.022
+    2300128: Fruit Screw.023
+    2300130: Fruit Shaving
+    2300132: Fruit Shaving.001
+    2300134: Fruit Shaving.002
+    2300136: Fruit Shaving.003
+    2300138: Fruit Shaving.004
+    2300140: Fruit Shaving.005
+    2300142: Fruit Shaving.006
+    2300144: Fruit Shaving.007
+    2300146: Fruit Shaving.008
+    2300148: Fruit Shaving.009
+    2300150: Fruit Shaving.010
+    2300152: Fruit Shaving.011
+    2300154: Fruit Shaving.012
+    2300156: Fruit Shaving.013
+    2300158: Fruit Shaving.014
+    2300160: Fruit Shaving.015
+    2300162: Fruit Shaving.016
+    2300164: Fruit Shaving.017
+    2300166: Fruit Shaving.018
+    2300168: Fruit Shaving.019
+    2300170: Fruit Shaving.020
+    2300172: Fruit Shaving.021
+    2300174: Fruit Shaving.022
+    2300176: Full Fruit
+    2300178: Full Fruit.001
+    2300180: Full Fruit.002
+    2300182: Full Fruit.003
+    2300184: Full Fruit.004
+    2300186: Full Fruit.005
+    2300188: Garnish Bowl
+    2300190: Garnish Bowl.001
+    2300192: Garnish Bowl.002
+    2300194: Garnish Bowl.003
+    2300196: Garnish Bowl.004
+    2300198: Garnish Bowl.005
+    2300200: Garnish Bowl.006
+    2300202: Garnish Bowl.007
+    2300204: Garnish Bowl.008
+    2300206: Gin
+    2300208: Gin & Tonic
+    2300210: Gin & Tonic Liquid
+    2300212: Grapefruit Juice
+    2300214: Grenadine
+    2300216: Ice Scoop
+    2300218: Jig
+    2300220: Lemon Juice
+    2300222: Lemonade
+    2300224: Lemonade Cap.003
+    2300226: Lime Juice
+    2300228: Manhatten
+    2300230: Manhatten Liquid
+    2300232: Margarita
+    2300234: Margarita Liquid
+    2300236: Martini
+    2300238: Martini Liquid
+    2300240: Milk
+    2300242: Mimosas
+    2300244: Mimosas Liquid
+    2300246: Mixing Glass
+    2300248: Mojito
+    2300250: Mojito Liquid
+    2300252: Muddler
+    2300254: OJ
+    2300256: Old Fashioned
+    2300258: Old Fashioned Liquid
+    2300260: Orange Bitters
+    2300262: Orange Soda Cap.000
+    2300264: Orange Soda.000
+    2300266: Orgeat
+    2300268: Peach Nectar
+    2300270: Peach Schnapps
+    2300272: Peychaud's Bitters
+    2300274: PIneapple Juice
+    2300276: Red Wine
+    2300278: Rose's Lime
+    2300280: Rum
+    2300282: Rye Whisky
+    2300284: Salt Plate.002
+    2300286: Scotch
+    2300288: Sex on the Beach
+    2300290: Sex on the Beach Liquid
+    2300292: Shaker Big
+    2300294: Shaker Small
+    2300296: Shaker Small.003
+    2300298: Simple Syrup
+    2300300: Strainer
+    2300302: Strainer.003
+    2300304: Sweet Vermouth
+    2300306: Tequila
+    2300308: The Icon
+    2300310: The Icon Liquid
+    2300312: Tonic
+    2300314: Tonic Lid
+    2300316: Triple Sec
+    2300318: Vodka
+    2300320: Whiskey
+    2300322: White Rum
+    2300324: White Wine
+    2300326: Wild Berry Smoothie
+    2300328: Wild Berry Smoothie Liquid
+    2300330: Wiskey Sour
+    2300332: Wiskey Sour Liquid
+    3300000: Amaretto
+    3300002: Americano
+    3300004: Americano Liquid
+    3300006: Angostura Bitters
+    3300008: Bar Spoon
+    3300010: Big Cup
+    3300012: Big Cup Liquid
+    3300014: Bottle Opener
+    3300016: Bourbon
+    3300018: Brandy
+    3300020: Cachaca
+    3300022: Campari
+    3300024: Can Cap.002
+    3300026: Can Cap.011
+    3300028: Can.002
+    3300030: Can.011
+    3300032: Cola Cap.004
+    3300034: Cola.004
+    3300036: Cosmopolitan
+    3300038: Cosmopolitan Liquid
+    3300040: Cranberry
+    3300042: Dry Vermouth
+    3300044: Egg White
+    3300046: Fruit + Cherry
+    3300048: Fruit + Cherry.001
+    3300050: Fruit + Cherry.002
+    3300052: Fruit Half
+    3300054: Fruit Half.
+    3300056: Fruit Half..001
+    3300058: Fruit Half..002
+    3300060: Fruit Half.001
+    3300062: Fruit Half.002
+    3300064: Fruit Half.003
+    3300066: Fruit Half.004
+    3300068: Fruit Half.005
+    3300070: Fruit Half.006
+    3300072: Fruit Half.007
+    3300074: Fruit Half.008
+    3300076: Fruit Half.009
+    3300078: Fruit Half.010
+    3300080: Fruit Half.011
+    3300082: Fruit Screw
+    3300084: Fruit Screw.001
+    3300086: Fruit Screw.002
+    3300088: Fruit Screw.003
+    3300090: Fruit Screw.004
+    3300092: Fruit Screw.005
+    3300094: Fruit Screw.006
+    3300096: Fruit Screw.007
+    3300098: Fruit Screw.008
+    3300100: Fruit Screw.009
+    3300102: Fruit Screw.010
+    3300104: Fruit Screw.011
+    3300106: Fruit Screw.012
+    3300108: Fruit Screw.013
+    3300110: Fruit Screw.014
+    3300112: Fruit Screw.015
+    3300114: Fruit Screw.016
+    3300116: Fruit Screw.017
+    3300118: Fruit Screw.018
+    3300120: Fruit Screw.019
+    3300122: Fruit Screw.020
+    3300124: Fruit Screw.021
+    3300126: Fruit Screw.022
+    3300128: Fruit Screw.023
+    3300130: Fruit Shaving
+    3300132: Fruit Shaving.001
+    3300134: Fruit Shaving.002
+    3300136: Fruit Shaving.003
+    3300138: Fruit Shaving.004
+    3300140: Fruit Shaving.005
+    3300142: Fruit Shaving.006
+    3300144: Fruit Shaving.007
+    3300146: Fruit Shaving.008
+    3300148: Fruit Shaving.009
+    3300150: Fruit Shaving.010
+    3300152: Fruit Shaving.011
+    3300154: Fruit Shaving.012
+    3300156: Fruit Shaving.013
+    3300158: Fruit Shaving.014
+    3300160: Fruit Shaving.015
+    3300162: Fruit Shaving.016
+    3300164: Fruit Shaving.017
+    3300166: Fruit Shaving.018
+    3300168: Fruit Shaving.019
+    3300170: Fruit Shaving.020
+    3300172: Fruit Shaving.021
+    3300174: Fruit Shaving.022
+    3300176: Full Fruit
+    3300178: Full Fruit.001
+    3300180: Full Fruit.002
+    3300182: Full Fruit.003
+    3300184: Full Fruit.004
+    3300186: Full Fruit.005
+    3300188: Garnish Bowl
+    3300190: Garnish Bowl.001
+    3300192: Garnish Bowl.002
+    3300194: Garnish Bowl.003
+    3300196: Garnish Bowl.004
+    3300198: Garnish Bowl.005
+    3300200: Garnish Bowl.006
+    3300202: Garnish Bowl.007
+    3300204: Garnish Bowl.008
+    3300206: Gin
+    3300208: Gin & Tonic
+    3300210: Gin & Tonic Liquid
+    3300212: Grapefruit Juice
+    3300214: Grenadine
+    3300216: Ice Scoop
+    3300218: Jig
+    3300220: Lemon Juice
+    3300222: Lemonade
+    3300224: Lemonade Cap.003
+    3300226: Lime Juice
+    3300228: Manhatten
+    3300230: Manhatten Liquid
+    3300232: Margarita
+    3300234: Margarita Liquid
+    3300236: Martini
+    3300238: Martini Liquid
+    3300240: Milk
+    3300242: Mimosas
+    3300244: Mimosas Liquid
+    3300246: Mixing Glass
+    3300248: Mojito
+    3300250: Mojito Liquid
+    3300252: Muddler
+    3300254: OJ
+    3300256: Old Fashioned
+    3300258: Old Fashioned Liquid
+    3300260: Orange Bitters
+    3300262: Orange Soda Cap.000
+    3300264: Orange Soda.000
+    3300266: Orgeat
+    3300268: Peach Nectar
+    3300270: Peach Schnapps
+    3300272: Peychaud's Bitters
+    3300274: PIneapple Juice
+    3300276: Red Wine
+    3300278: Rose's Lime
+    3300280: Rum
+    3300282: Rye Whisky
+    3300284: Salt Plate.002
+    3300286: Scotch
+    3300288: Sex on the Beach
+    3300290: Sex on the Beach Liquid
+    3300292: Shaker Big
+    3300294: Shaker Small
+    3300296: Shaker Small.003
+    3300298: Simple Syrup
+    3300300: Strainer
+    3300302: Strainer.003
+    3300304: Sweet Vermouth
+    3300306: Tequila
+    3300308: The Icon
+    3300310: The Icon Liquid
+    3300312: Tonic
+    3300314: Tonic Lid
+    3300316: Triple Sec
+    3300318: Vodka
+    3300320: Whiskey
+    3300322: White Rum
+    3300324: White Wine
+    3300326: Wild Berry Smoothie
+    3300328: Wild Berry Smoothie Liquid
+    3300330: Wiskey Sour
+    3300332: Wiskey Sour Liquid
+    4300000: Full Fruit.005
+    4300002: Amaretto
+    4300004: Angostura Bitters
+    4300006: Bar Spoon
+    4300008: Bottle Opener
+    4300010: Bourbon
+    4300012: Brandy
+    4300014: Cachaca
+    4300016: Campari
+    4300018: Cranberry
+    4300020: Dry Vermouth
+    4300022: Egg White
+    4300024: Gin
+    4300026: Grapefruit Juice
+    4300028: Grenadine
+    4300030: Jig
+    4300032: Lemon Juice
+    4300034: Lime Juice
+    4300036: Milk
+    4300038: Mixing Glass
+    4300040: Muddler
+    4300042: OJ
+    4300044: Orange Bitters
+    4300046: Orgeat
+    4300048: Peach Nectar
+    4300050: Peach Schnapps
+    4300052: Peychaud's Bitters
+    4300054: PIneapple Juice
+    4300056: Red Wine
+    4300058: Rose's Lime
+    4300060: Rum
+    4300062: Rye Whisky
+    4300064: Scotch
+    4300066: Shaker Big
+    4300068: Shaker Small.003
+    4300070: Strainer.003
+    4300072: Simple Syrup
+    4300074: Sweet Vermouth
+    4300076: Tequila
+    4300078: Triple Sec
+    4300080: Vodka
+    4300082: Whiskey
+    4300084: White Rum
+    4300086: White Wine
+    4300088: Can.002
+    4300090: Can Cap.011
+    4300092: Can.011
+    4300094: Can Cap.002
+    4300096: Cola.004
+    4300098: Cola Cap.004
+    4300100: Lemonade
+    4300102: Lemonade Cap.003
+    4300104: Orange Soda.000
+    4300106: Orange Soda Cap.000
+    4300108: Tonic
+    4300110: Tonic Lid
+    4300112: Ice Scoop
+    4300114: Fruit + Cherry
+    4300116: Fruit + Cherry.001
+    4300118: Fruit Half
+    4300120: Fruit Half.
+    4300122: Fruit Half.003
+    4300124: Fruit Screw
+    4300126: Fruit Screw.001
+    4300128: Fruit Shaving
+    4300130: Fruit Shaving.011
+    4300132: Garnish Bowl
+    4300134: Salt Plate.002
+    4300136: Americano
+    4300138: Americano Liquid
+    4300140: Big Cup
+    4300142: Big Cup Liquid
+    4300144: Cosmopolitan
+    4300146: Cosmopolitan Liquid
+    4300148: Gin & Tonic
+    4300150: Gin & Tonic Liquid
+    4300152: Manhatten
+    4300154: Manhatten Liquid
+    4300156: Margarita
+    4300158: Margarita Liquid
+    4300160: Martini
+    4300162: Martini Liquid
+    4300164: Mimosas
+    4300166: Mimosas Liquid
+    4300168: Mojito
+    4300170: Mojito Liquid
+    4300172: Old Fashioned
+    4300174: Old Fashioned Liquid
+    4300176: Sex on the Beach
+    4300178: Sex on the Beach Liquid
+    4300180: The Icon
+    4300182: The Icon Liquid
+    4300184: Wild Berry Smoothie
+    4300186: Wild Berry Smoothie Liquid
+    4300188: Wiskey Sour
+    4300190: Wiskey Sour Liquid
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
